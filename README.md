@@ -18,12 +18,12 @@ Vendor Distribution: Analyzed which vendors are moving the most stock using the 
 ### 3. Sales & Quantity Combined (Performance Metrics)
 Customer Behavior: Developed a detailed table to see exactly which customer are buying which products and in what quantity.
 Geographical Trends: Created the New_zip vs. Quantity Area Chart to visualize demand distribution across different locations.
-## 📂 Repository Structure
+## Repository Structure
 Raw_Data/: Contains the 4 original files (Dirty Data).
 Cleaned_Data/: Contains the 4 processed files (Cleaned Data).
 Farmers_Market_Project.pbix: The final interactive Power BI file.
 Dashboard_Preview.jpg: A full-page screenshot of the final report.
-## 🚀 How to Interact with this Dashboard
+## How to Interact with this Dashboard
 Download the .pbix file.
 Open it in Power BI Desktop.
 Use the Slicers (Vendor, Market Date, Product) at the top to filter the entire dashboard.
