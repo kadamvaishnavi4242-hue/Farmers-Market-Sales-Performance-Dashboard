@@ -1,0 +1,25 @@
+product_id,product_name,product_size,product_category_id,product_qty_type
+1,Habanero peppers - organic,medium,1,lbs
+2,Jalapeno peppers - organic,small,1,lbs
+3,Poblano peppers - organic,,1,unit
+4,Banana peppers - jar,8 oz,1,unit
+5,Whole wheat bread,1.5 lbs,3,unit
+6,Cut zinnias bouquet,medium,3,unit
+7,Apple pie,10,3,unit
+0,Cherry pie,10,3,unit
+9,Sweet potatoes,medium,1,lbs
+10,Eggs,1 dozen,3,unit
+0,Pork chops,1 lb,2,unit
+12,Baby salad lettuce mix - bag,1/2 lb,1,unit
+13,Baby salad lettuce mix,1 lb,1,unit
+14,Red potatoes,nan,1,nan
+15,,,3,
+16,Sweet corn,,1,unit
+0,Carrots,sold by weight,1,lbs
+18,Carrots - organic,bunch,1,unit
+0,Farmer's market reusable shopping bag,,7,unit
+20,Homemade beeswax candles,6,7,unit
+21,Organic cherry tomatoes,pint,1,unit
+22,,medium,1,unit
+23,Maple syrup - jar,8 oz,3,unit
+0,Carrots - organic,bunch,1,unit
